@@ -11,3 +11,9 @@
 本次学习任务：完成Task02
 【Task02】Dify入门-聊天助手（猜病、哄哄模拟器）:https://www.datawhale.cn/learn/content/168/4037
 打卡截止时间：6月20日03:00
+
+
+本次学习任务：完成Task03
+【Task03】Dify入门-知识库-新生入学指南
+https://www.datawhale.cn/learn/content/168/4039
+打卡截止时间：6月21日03:00
