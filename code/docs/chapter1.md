@@ -3,5 +3,6 @@
 
 搭建完成后，通过浏览器访问 http://localhost/apps 即可访问dify。
 
+image.png
 
 

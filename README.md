@@ -17,3 +17,9 @@
 【Task03】Dify入门-知识库-新生入学指南
 https://www.datawhale.cn/learn/content/168/4039
 打卡截止时间：6月21日03:00
+
+
+本次学习任务：完成Task04
+【Task04】：Dify进阶-workflow实践（小红书读书卡片）
+https://www.datawhale.cn/learn/content/168/4040
+打卡截止时间：6月22日03:00
